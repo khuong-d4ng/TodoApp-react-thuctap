@@ -1,3 +1,10 @@
+#Simple todo app
+
+Đây là một Todo app đơn giản có chức năng thêm công việc và mô tả công việc, dữ liệu được lưu trong local storage với key là todos
+<img src="gitImage/preview.jpg">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
