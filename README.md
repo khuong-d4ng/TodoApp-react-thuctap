@@ -8,7 +8,18 @@
 <img src="gitImage/preview.png">  
 </p>
 
+# Add new todo
 
+Form nhập công việc mới hiển thị khi click vào nút + New task, cho phép nhập tên công việc và mô tả công việc
+<p align="center">
+  <img src="gitImage/preview-add.png">
+</p>
+
+# Hoàn thành/Xóa công việc 
+Khi bấm hoàn thành, công việc sẽ mờ đi và có thêm một gạch ngang biểu thị công việc đã được hoàn thành
+<p align="center">
+  <img src="gitImage/finished-task.png">
+</p>
 
 # Getting Started with Create React App
 
